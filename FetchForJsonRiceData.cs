@@ -16,12 +16,16 @@ namespace InventoryDataManagement
             {
                 try
                 {
+
                     string json = file.ReadToEnd();
                     return JsonConvert.DeserializeObject<Rice>(json);
+
                 }
                 catch(Exception)
                 {
+
                     return null;
+
                 }
             }
 
