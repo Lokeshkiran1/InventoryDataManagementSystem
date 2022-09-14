@@ -13,9 +13,9 @@ namespace InventoryDataManagement
             string filePath= "C:\\Users\\HP\\Desktop\\csharp\\InventoryDataManagement\\jsconfig1.json";
             FetchForJsonRiceData fetch = new FetchForJsonRiceData();
             Rice data = fetch.Read(filePath);
-            // Console.WriteLine(data.typeOfRice.name);
-             //Console.WriteLine(data.typeOfRice.weight);
-             //Console.WriteLine(data.typeOfRice.price);
+            /*Console.WriteLine(data.typeOfRice.name);
+             Console.WriteLine(data.typeOfRice.weight);
+             Console.WriteLine(data.typeOfRice.price);*/
             Console.WriteLine("types of rice data");
            for(int i=0;i<data.typeOfRice.Count;i++)
             {

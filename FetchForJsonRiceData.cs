@@ -23,9 +23,7 @@ namespace InventoryDataManagement
                 }
                 catch(Exception)
                 {
-
                     return null;
-
                 }
             }
 
