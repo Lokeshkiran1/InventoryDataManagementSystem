@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\bin\Debug\InventoryDataManagement.exe.config
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\bin\Debug\InventoryDataManagement.exe
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\bin\Debug\InventoryDataManagement.pdb
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.exe
+C:\Users\HP\Desktop\csharp\InventoryDataManagement\obj\Debug\InventoryDataManagement.pdb
